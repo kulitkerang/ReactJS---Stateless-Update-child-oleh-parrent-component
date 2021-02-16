@@ -1,8 +1,7 @@
-# MELANJUTKAN DARI PROJECT SEBELUMNYA TENTANG CARD
-kita membuat tentang stateless component dan statefull component , perbedaannya antara lain :
-- stateless component kita menggunakan awalan function "const"
-- fullstate component kita menggunakan awalan function "class"
-
+#MEMNBUAT TENTANG BAGAIMANA CARA UPDATE PARENT OLEH CHILD COMPONENT DENGAN MENGGUNKAAN METODE STATELESS
+pelajaran yang kita buat disini adalah tentang : 
+- bagaimana cara mengupdate nilai value dengan cara onclick
+- bagaimana cara menambah/mengurangi nilai header dan body dengan bersamaan dalam 1 klik
 
 
 # Getting Started with Create React App
