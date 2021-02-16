@@ -1,4 +1,4 @@
-#MEMNBUAT TENTANG BAGAIMANA CARA UPDATE PARENT OLEH CHILD COMPONENT DENGAN MENGGUNKAAN METODE STATELESS
+# MEMBUAT TENTANG BAGAIMANA CARA UPDATE PARENT OLEH CHILD COMPONENT DENGAN MENGGUNKAAN METODE STATELESS
 pelajaran yang kita buat disini adalah tentang : 
 - bagaimana cara mengupdate nilai value dengan cara onclick
 - bagaimana cara menambah/mengurangi nilai header dan body dengan bersamaan dalam 1 klik
